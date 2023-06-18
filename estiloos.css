@@ -1,0 +1,41 @@
+<style type="text/css">
+	
+	
+			body{background:rgb(51, 86, 255); display:flex; justify-content:center; align-content:center; align-items:center}
+
+			
+				h2, label{font-family: 'Figtree', sans-serif; text-align:left; color:rgb(2, 25, 91)}
+				h2{font-weight:bold;; Font-size:25pt; }
+				label{Font-size:15pt}			
+				form{background-color:rgb(165, 226, 247);
+					font-family: 'Figtree', sans-serif;	
+					border-color:rgb(4, 31, 105);
+					border-width:2px; 
+					border-style:solid;
+					position: absolute;
+					top: 50%;
+					left: 50%;
+					transform: translate(-50%, -50%) ;
+					}
+				form,input{border-radius:5px}
+				input,label,h2,button{
+					width:90%;
+					margin-left: 1.5rem;
+					margin-right: 1.5rem;
+					
+					}
+				input{height:35px}
+				input[type="submit"]{background-color:rgb(106, 175, 253); 
+					color:rgb(255, 255, 255);
+					border-color:rgb(4, 31, 105);
+					height:45px;
+					Font-size:15pt}
+								
+				body{background:rgb(51, 86, 255); display:flex; justify-content:center; align-content:center; align-items:center}
+
+				
+
+						
+
+			
+</style>

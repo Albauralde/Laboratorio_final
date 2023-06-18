@@ -1,0 +1,43 @@
+<style type="text/css">
+
+body{background:rgb(51, 86, 255); display:flex; justify-content:center; align-content:center; align-items:center}
+body{background:rgb(51, 86, 255); display:flex; justify-content:center; align-content:center; align-items:center}
+
+form{background-color:rgb(165, 226, 247);
+    font-family: 'Figtree', sans-serif;	
+    border-color:rgb(4, 31, 105);
+    border-width:2px; 
+    border-style:solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 25%;
+    }
+form,input{border-radius:5px}
+input,label,button{
+    width:90%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+    }
+input{height:35px}
+input[type="submit"]{background-color:rgb(106, 175, 253); 
+    color:rgb(255, 255, 255);
+    border-color:rgb(4, 31, 105);
+    height:45px;
+    Font-size:15pt}
+
+.registros{background-color:rgb(194, 233, 246);
+    width: 30%;
+    color:rgb(2, 20, 72);
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+     }
+.group{color:rgb(2, 20, 72);
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;}
+
+</style>
